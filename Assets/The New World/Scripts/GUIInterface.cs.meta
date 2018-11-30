@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 53b512408998f634494286e2de17e339
+timeCreated: 1543492828
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gear: {fileID: 1821009682046674, guid: d890a4655c5393941ba10cf2f1d958fc, type: 2}
+  - gearMotor: {fileID: 1399341354378680, guid: 93b80625f5c05fd43a462de852dfc8cf,
+      type: 2}
+  - apple: {fileID: 1739365522561892, guid: 5a7785e14111ac549b27b20d335bc1e1, type: 2}
+  - booster: {fileID: 1121650112585110, guid: abb841d1ea6e27a4c8a16ed147a39af6, type: 2}
+  - leaf: {fileID: 1805620060287926, guid: 176e4ed6cb02d2b4389ba84504a53890, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
