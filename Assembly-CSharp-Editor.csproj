@@ -58,7 +58,7 @@
      <Compile Include="Assets\PSG\Scripts\Editor\SaveMeshEditor.cs" />
      <Compile Include="Assets\VSCode\Plugins\Editor\VSCode.cs" />
  <Reference Include="Facebook.Unity.Settings">
- <HintPath>C:/Users/nanobrain/Desktop/Chris/Apps/Train Chelsea/The New World/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
+ <HintPath>C:/Users/nanobrain/The New World/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>

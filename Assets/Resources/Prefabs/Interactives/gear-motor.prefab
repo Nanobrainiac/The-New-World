@@ -25,6 +25,7 @@ GameObject:
   - component: {fileID: 50842725279408028}
   - component: {fileID: 233931619136054070}
   - component: {fileID: 114564465639757786}
+  - component: {fileID: 114058864980421280}
   m_Layer: 0
   m_Name: gear-motor
   m_TagString: Untagged
@@ -192,6 +193,17 @@ PolygonCollider2D:
       - {x: 0.00008910065, y: -0.00004539905}
       - {x: 0.00009876883, y: -0.000015643436}
       - {x: 0.00009876883, y: 0.000015643447}
+--- !u!114 &114058864980421280
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1399341354378680}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b102f1476de20384d9ec547ca160fe19, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!114 &114564465639757786
 MonoBehaviour:
   m_ObjectHideFlags: 1
